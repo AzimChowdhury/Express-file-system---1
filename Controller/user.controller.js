@@ -51,7 +51,7 @@ module.exports.updateOneUser = (req, res) => {
     }
 
 }
-
+ 
 
 // delete a user 
 module.exports.deleteAUser = (req, res) => {
